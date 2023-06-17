@@ -1,4 +1,4 @@
-# ostad_Post_api_Call_App
+# Ostad_Post_api_Call_App
 
 A new Flutter project.
 
